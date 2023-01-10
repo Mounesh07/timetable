@@ -109,7 +109,6 @@ Execute the program
                      <li>19PH214 - PHYSICS FOR QUANTUM COMPUTING</li>
                      <li>19EN101 - COMMUNICATIVE ENGLISH</li>
                      <li>19EN616 - YOGA AND MEDITATION</li>
-                     <li>19EN612 - GERMAN BASIC</li>
                      <li>19EY701 - SOFT SKILLS</li>
                   </ol>
                   </center>
@@ -118,4 +117,4 @@ Execute the program
   ```
 
 # OUPTPUT
-![output](/Screenshot%20from%202023-01-10%2011-05-45.png)
+![output](/Screenshot%20from%202023-01-10%2011-10-27.png)
