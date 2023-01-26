@@ -118,3 +118,8 @@ Execute the program
 
 # OUPTPUT
 ![output](/output.png)
+
+
+## RESULT
+
+This is the HTML code to show an output of Timetable.
