@@ -117,4 +117,4 @@ Execute the program
   ```
 
 # OUPTPUT
-![output](/Screenshot%20from%202023-01-10%2011-10-27.png)
+![output](/output.png)
